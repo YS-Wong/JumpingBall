@@ -13,6 +13,7 @@ public class jump extends Thread{
 	static JRadioButton j1,j2,j3;
 	int ix,iy,X,Y,level;
 	static boolean b=true;
+	//The method tx() and ty() aer used to change the direction of the Ball
 	void tx(){
 		ix=-ix;
 	}
