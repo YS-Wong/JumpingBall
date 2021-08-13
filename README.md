@@ -1,2 +1,2 @@
 # JumpingBall
-A little game which I made early. 
+A little game which I made earlier. 
