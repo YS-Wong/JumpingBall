@@ -1,2 +1,2 @@
 # JumpingBall
-A little game based on Java
+A little game based on Java.
