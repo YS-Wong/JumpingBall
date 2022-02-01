@@ -1,2 +1,2 @@
 # JumpingBall
-A little game which I made earlier. 
+A little game based on Java
